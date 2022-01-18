@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Popcorn</string>
+    <string name="movies_sort_order_year">Sorted by year 📅</string>
+    <string name="movies_sort_order_rating">Sorted by rating 🌟</string>
+</resources>
